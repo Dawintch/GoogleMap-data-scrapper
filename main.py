@@ -3,7 +3,7 @@ import os
 import requests
 import pandas as pd
 
-API_KEY = "AIzaSyCvRPYrZWJKJCAH5mLxyj1XeC_dcsb4LQw"
+API_KEY = "here"
 
 URL = "https://places.googleapis.com/v1/places:searchText"
 
